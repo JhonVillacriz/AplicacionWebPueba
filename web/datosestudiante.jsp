@@ -72,6 +72,7 @@
                    <td><% out.print(rs.getString(6)); %></td>
                    <td>Eliminar</td>
                    <td>Editar</td>
+                   
                 </tr>
       
             
